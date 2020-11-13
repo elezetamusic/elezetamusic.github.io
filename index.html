@@ -54,14 +54,14 @@
 									</div>
 								</div>
 								<div>
-									<a href="simple-piano/">
-										<img src="simple-piano/albumart_500x500.png" alt="Simple Piano" />
+									<a href="cocodrilos-y-mapaches/">
+										<img src="cocodrilos-y-mapaches/albumart_500x500.png" alt="Cocodrilos y Mapaches" />
 									</a>
 									<div class="thumbtext">
-									Easy-Listening Piano&nbsp;&ndash;&nbsp; Jan 2021
+									Children's Music &nbsp;&ndash;&nbsp; May 2020
 									</div>
 								</div>
-								<div>
+								<div class="prerelease" date="2020-11-27">
 									<a href="dinosaurios-rawr-rawr-rawr/">
 										<img src="dinosaurios-rawr-rawr-rawr/albumart_500x500.png" alt="Dinosaurios Rawr Rawr Rawr" />
 									</a>
@@ -71,23 +71,15 @@
 								</div>
 							</section>
 							<section class="thumbnails">
-								<div>
-									<a href="dinosaurios-rawr-rawr-rawr-karaoke/">
-										<img src="dinosaurios-rawr-rawr-rawr-karaoke/albumart_500x500.png" alt="Dinosaurios Rawr Rawr Rawr (Karaoke)" />
+								<div class="prerelease" date="2021-01-01">
+									<a href="simple-piano/">
+										<img src="simple-piano/albumart_500x500.png" alt="Simple Piano" />
 									</a>
 									<div class="thumbtext">
-									Children's Music &nbsp;&ndash;&nbsp; Apr 2021
+									Easy-Listening Piano&nbsp;&ndash;&nbsp; Jan 2021
 									</div>
 								</div>
-								<div>
-									<a href="cocodrilos-y-mapaches/">
-										<img src="cocodrilos-y-mapaches/albumart_500x500.png" alt="Cocodrilos y Mapaches" />
-									</a>
-									<div class="thumbtext">
-									Children's Music &nbsp;&ndash;&nbsp; May 2020
-									</div>
-								</div>
-								<div>
+								<div class="prerelease" date="2021-02-01">
 									<a href="cocodrilos-y-mapaches-karaoke/">
 										<img src="cocodrilos-y-mapaches-karaoke/albumart_500x500.png" alt="Cocodrilos y Mapaches (Karaoke)" />
 									</a>
@@ -95,9 +87,31 @@
 									Children's Music &nbsp;&ndash;&nbsp; Feb 2021
 									</div>
 								</div>
+								<div class="prerelease" date="2021-04-01">
+									<a href="dinosaurios-rawr-rawr-rawr-karaoke/">
+										<img src="dinosaurios-rawr-rawr-rawr-karaoke/albumart_500x500.png" alt="Dinosaurios Rawr Rawr Rawr (Karaoke)" />
+									</a>
+									<div class="thumbtext">
+									Children's Music &nbsp;&ndash;&nbsp; Apr 2021
+									</div>
+								</div>
 							</section>
 
 					</section>
+
+<script type="text/javascript">
+var r = document.getElementsByClassName("prerelease");
+today = new Date();
+i = 0;
+while (i < r.length) {
+   if (new Date(r[i].getAttribute("date")) > today) {
+     r[i].parentNode.removeChild(r[i]);
+   }
+   else {
+     i++;
+   }
+}
+</script>
 
 				<!-- Footer -->
 					<footer id="footer">

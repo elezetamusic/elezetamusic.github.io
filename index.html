@@ -104,7 +104,7 @@ var r = document.getElementsByClassName("prerelease");
 today = new Date();
 i = 0;
 while (i < r.length) {
-   if (new Date(r[i].getAttribute("date")) > today) {
+   if (new Date(r[i].getAttribute("date")) > today && window.location.search.substr(1) != 'pre') {
      r[i].parentNode.removeChild(r[i]);
    }
    else {

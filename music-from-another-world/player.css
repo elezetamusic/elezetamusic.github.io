@@ -1,0 +1,225 @@
+/* Responsive Audio Player
+   Mark Hillard https://codepen.io/markhillard/pen/Hjcwu
+   Edited.
+
+CodePen license:
+
+Copyright (c) Mark Hillard https://codepen.io/markhillard/pen/Hjcwu
+
+Permission is hereby granted, free of charge, to any person 
+obtaining a copy of this software and associated documentation 
+files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell copies of 
+the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall 
+be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+*/
+
+/* Font Family
+================================================== */
+
+
+
+/* Setup
+================================================== */
+
+.containnr { position:relative; margin:0; max-width:100%;}
+
+
+/* Typography / Links
+================================================== */
+
+.containnr p { color:#fff; display:block; font-size:.9rem; font-weight:400; margin:0 0 2px; }
+
+.containnr a,.containnr a:visited { color:#8cc3e6; outline:0; text-decoration:underline; }
+.containnr a:hover,.containnr a:focus { color:#bbdef5; }
+.containnr p a,.containnr p a:visited { line-height:inherit; }
+
+
+/* Misc.
+================================================== */
+
+.containnr .add-bottom { margin-bottom:2rem !important; }
+.containnr .left { float:left; }
+.containnr .right { float:right; }
+.containnr .center { text-align:center; }
+.containnr .hidden { display:none; }
+
+.containnr .no-support {
+margin:2rem auto;
+text-align:center;
+width:90%;
+}
+
+
+/* Audio Player Styles
+================================================== */
+
+.containnr audio {
+display:none;
+}
+
+#audiowrap,
+#plwrap {
+margin:0 auto;
+}
+
+#tracks {
+font-size:0;
+position:relative;
+text-align:center;
+}
+
+#nowPlay {
+display:block;
+font-size:0;
+}
+
+#nowPlay span {
+display:inline-block;
+font-size:1.05rem;
+vertical-align:top;
+}
+
+#nowPlay span#npAction {
+display:none;
+}
+
+#nowPlay span#npTitle {
+display:block;
+text-align:center;
+width:100%;
+padding:21px;
+}
+
+#plList li {
+cursor:pointer;
+display:block;
+margin:0;
+padding:21px 0;
+}
+
+#plList li:hover {
+background-color:rgba(0,0,0,.3);
+}
+
+.containnr .plItem {
+position:relative;
+}
+
+.containnr .plTitle {
+left:50px;
+overflow:hidden;
+position:absolute;
+right:65px;
+text-overflow:ellipsis;
+top:0;
+white-space:nowrap;
+}
+
+.containnr .plNum {
+padding-left:21px;
+width:25px;
+}
+
+.containnr .plLength {
+padding-left:21px;
+font-family: Avenir,"Avenir Next","Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+position:absolute;
+right:21px;
+top:0;
+}
+
+.containnr .plSel,
+.plSel:hover {
+background-color:rgba(0,0,0,.2);
+color:#fff;
+cursor:default !important;
+}
+
+#tracks a {
+border-radius:3px;
+color:#fff;
+cursor:pointer;
+display:inline-block;
+font-size:2.3rem;
+height:35px;
+line-height:.175;
+margin:5px 5px 5px 5px;
+padding:12px 6px 10px 6px;
+text-decoration:none;
+transition:background .3s ease;
+}
+
+#tracks a:last-child {
+margin-left:0;
+}
+
+#tracks a:hover,
+#tracks a:active {
+background-color:rgba(0,0,0,.3);
+color:#fff;
+}
+
+#tracks a::-moz-focus-inner {
+border:0;
+padding:0;
+}
+
+
+/* Plyr Overrides
+================================================== */
+
+.containnr .plyr--audio .plyr__controls {
+background-color:transparent;
+border:none;
+color:#fff;
+padding:20px 0px 20px 0px;
+width:100%;
+}
+
+.containnr a.plyr__controls__item.plyr__control:hover,
+.containnr .plyr--audio .plyr__controls button:hover,
+.containnr .plyr--audio .plyr__controls button.tab-focus:focus,
+.containnr .plyr__play-large {
+background-color:rgba(0,0,0,.3);
+}
+
+.containnr .plyr__progress--played,
+.containnr .plyr__volume--display {
+color:rgba(0,0,0,.1);
+}
+
+.containnr .plyr--audio .plyr__progress--buffer,
+.containnr .plyr--audio .plyr__volume--display {
+background:rgba(0,0,0,.1);
+}
+
+.containnr .plyr--audio .plyr__progress--buffer {
+color:rgba(0,0,0,.1);
+}
+
+.containnr .plyr--full-ui input[type=range] {
+color:#335c87;
+}
+
+/* Media Queries
+================================================== */
+
+@media only screen and (max-width:736px) {
+.containnr .plyr__controls__item.plyr__volume { display:none; }
+}
+

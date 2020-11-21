@@ -2515,6 +2515,11 @@
 					width: 100%;
 				}
 
+		                .thumbnails > div.smallcol {
+		                        width: 100%; /* columns */
+		                }
+
+
 					.thumbnails > div:last-child > :last-child {
 						margin-bottom: 0 !important;
 					}

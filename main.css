@@ -2469,6 +2469,10 @@
 			padding-left: 2em;
 		}
 
+		.thumbnails > div.smallcol {
+			width: calc(100% / 5); /* columns */
+		}
+
 			.thumbnails > div > :last-child {
 				margin-bottom: 0;
 			}

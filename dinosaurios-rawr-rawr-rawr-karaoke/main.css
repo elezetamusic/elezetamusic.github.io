@@ -3195,15 +3195,15 @@
 	}
 
 		#footer a {
-			color: rgba(196, 108, 69, 1);
+			color: #b0b44b;
 		}
 
 			#footer a:hover {
-			color: rgba(296, 208, 169, 1);
+			color: #b0b44b;
 			}
 
 		#footer .copyright {
-			color: rgba(196, 108, 69, 1);
+			color: #b0b44b;
 			font-size: 0.9rem;
 			margin: 0 0 2rem 0;
 			padding: 0 1rem;

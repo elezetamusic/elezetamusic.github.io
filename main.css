@@ -2470,7 +2470,7 @@
 		}
 
 		.thumbnails > div.smallcol {
-			width: calc(100% / 5); /* columns */
+			width: calc(100% / 4); /* columns */
 		}
 
 			.thumbnails > div > :last-child {

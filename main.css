@@ -2684,3 +2684,31 @@
 			}
 
 		}
+
+
+
+.home a {
+        text-decoration: none;
+        color: #eeeeee;
+}
+
+.home a:visited {
+        color: #eeeeee;
+}
+
+.home a:active {
+        color: #eeeeee;
+}
+
+.home {
+        font-family: Times New Roman;
+        position:absolute;
+        width:60px;
+        height:60px;
+        top:10px;
+        left:10px;
+        color: #eeeeee;
+        font-size:40px;
+        text-align:center;
+}
+

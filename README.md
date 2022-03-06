@@ -18,14 +18,14 @@ archive for albums of the Elezeta music project (www.elezeta.com)
  -  MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Altered.Times.mp3.zip)
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Altered.Times.flac.zip)
  -  (Backing tracks) MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Altered.Times.Backing.Tracks.mp3.zip)
- -  (Backing tracks) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Altered.Times.flac.zip)
+ -  (Backing tracks) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Altered.Times.Backing.Tracks.flac.zip)
 
 ### Shelter (2020)
 
  -  MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.mp3.zip)
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.flac.zip)
  -  (Backing tracks) MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.Backing.Tracks.mp3.zip)
- -  (Backing tracks) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Simple.Piano.flac.zip)
+ -  (Backing tracks) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.Backing.Tracks.flac.zip)
 
 ## Solo Piano
 

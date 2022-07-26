@@ -3,6 +3,11 @@ archive for albums of the Elezeta music project (www.elezeta.com)
 
 ## Pop/Rock
 
+### Reflection (2022)
+
+ -  MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Reflection.mp3.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Reflection.flac.zip)
+
 ### Reaction (2022)
 
  -  MP3: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Reaction.mp3.zip)

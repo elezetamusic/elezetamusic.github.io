@@ -3,6 +3,10 @@ archive for albums of the Elezeta music project (www.elezeta.com)
 
 ## Pop/Rock
 
+### Years Away (2023)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Years.Away.flac.zip)
+
 ### Reflection (2022)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Reflection.flac.zip)

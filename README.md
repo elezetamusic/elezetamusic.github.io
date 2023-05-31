@@ -39,7 +39,11 @@ archive for albums of the Elezeta music project (www.elezeta.com)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Simple.Piano.flac.zip)
 
-## Synthesizer
+## Electronic
+
+### Touching Point (2023)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Touching.point.flac.zip)
 
 ### Music from Another World (2021)
 

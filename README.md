@@ -1,7 +1,12 @@
 # elezetamusic
 archive for albums of the Elezeta music project (www.elezeta.com)
 
-## Pop/Rock
+## Covers
+
+### ’74-’75 by The Connells (2023)
+  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.74-.75.The.Connells.flac.zip)
+
+## Indie Pop/Rock
 
 ### Years Away (2023)
 

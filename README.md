@@ -34,6 +34,20 @@ archive for albums of the Elezeta music project (www.elezeta.com)
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.flac.zip)
  -  (Backing tracks) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Shelter.Backing.Tracks.flac.zip)
 
+## Electronic
+
+### Last Transmission (2023)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Last.Transmission.flac.zip)
+
+### Touching Point (2023)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Touching.point.flac.zip)
+
+### Music from Another World (2021)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Music.from.Another.World.flac.zip)
+
 ## Solo Piano
 
 ### Transitions on Piano (2021)
@@ -43,16 +57,6 @@ archive for albums of the Elezeta music project (www.elezeta.com)
 ### Simple Piano (2020)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Simple.Piano.flac.zip)
-
-## Electronic
-
-### Touching Point (2023)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Touching.point.flac.zip)
-
-### Music from Another World (2021)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Music.from.Another.World.flac.zip)
 
 ## Children Music in Spanish
 

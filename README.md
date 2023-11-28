@@ -73,4 +73,4 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
   - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.74-.75.The.Connells.flac.zip)
 
 ### Undead by Brynna Campbell (2023)
-  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-Undead.Brynna.Campbell.flac.zip)
+  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.Undead.Brynna.Campbell.flac.zip)

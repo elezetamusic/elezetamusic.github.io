@@ -1,10 +1,7 @@
 # elezetamusic
 archive for albums of the Elezeta music project (www.elezeta.com)
 
-## Covers
-
-### ’74-’75 by The Connells (2023)
-  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.74-.75.The.Connells.flac.zip)
+You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RPEdOJGGdk3kOnmVq3dgX) instead.
 
 ## Indie Pop/Rock
 
@@ -69,3 +66,11 @@ archive for albums of the Elezeta music project (www.elezeta.com)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Cocodrilos.y.Mapaches.flac.zip)
  -  (Karaoke) FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Cocodrilos.y.Mapaches.Karaoke.flac.zip)
+
+## Covers
+
+### ’74-’75 by The Connells (2023)
+  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.74-.75.The.Connells.flac.zip)
+
+### Undead by Brynna Campbell (2023)
+  - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-Undead.Brynna.Campbell.flac.zip)

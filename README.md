@@ -5,6 +5,10 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 
 ## Indie Pop/Rock
 
+### Crossing Lines (2024)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Crossing.Lines.flac.zip)
+
 ### Years Away (2023)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Years.Away.flac.zip)

@@ -87,8 +87,8 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 
 ### Falling Overture (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Falling.Overture.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Falling.Overture.flac.zip)
 
 ### Masquerade in Soft Focus (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Masquerade.in.Soft.Focus.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)

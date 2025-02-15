@@ -78,3 +78,17 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 
 ### Undead by Brynna Campbell (2023)
   - FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/covers/Elezeta.-.Undead.Brynna.Campbell.flac.zip)
+
+## Side project Windlereye - Art Rock / Glam Pop leveraging AI
+
+### When Stars Forget (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
+
+### Falling Overture (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Falling.Overture.flac.zip)
+
+### Masquerade in Soft Focus (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Masquerade.in.Soft.Focus.flac.zip)

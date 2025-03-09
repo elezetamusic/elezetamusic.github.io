@@ -92,3 +92,7 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 ### Masquerade in Soft Focus (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
+
+### Blindfolded Reverie (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)

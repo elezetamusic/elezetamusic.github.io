@@ -96,3 +96,7 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 ### Blindfolded Reverie (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)
+
+### Soda Fizz Pop Rock Huh? (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)

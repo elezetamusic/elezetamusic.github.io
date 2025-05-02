@@ -1,5 +1,4 @@
-# elezetamusic
-archive for albums of the Elezeta music project (www.elezeta.com)
+# elezetamusicarchive for albums of the Elezeta music project (www.elezeta.com)
 
 You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RPEdOJGGdk3kOnmVq3dgX) instead.
 
@@ -100,7 +99,3 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 ### Soda Fizz Pop Rock Huh? (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
-
-### Theories of Almost (2025)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Theories.of.Almost.flac.zip)

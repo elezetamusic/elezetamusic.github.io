@@ -80,22 +80,22 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 
 ## Side project Windlereye - Art Rock / Glam Pop leveraging AI
 
-### When Stars Forget (2025)
+### Soda Fizz Pop Rock Huh? (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
-
-### Falling Overture (2025)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Falling.Overture.flac.zip)
-
-### Masquerade in Soft Focus (2025)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
 
 ### Blindfolded Reverie (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)
 
-### Soda Fizz Pop Rock Huh? (2025)
+### Masquerade in Soft Focus (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
+
+### Falling Overture (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Falling.Overture.flac.zip)
+
+### When Stars Forget (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)

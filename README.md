@@ -99,3 +99,11 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 ### When Stars Forget (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
+
+### Theories of Almost (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Theories.of.Almost.flac.zip)
+
+### Low Orbit Carnivorous Plant (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Low.Orbit.Carnivorous.Plant.flac.zip)

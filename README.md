@@ -1,6 +1,4 @@
-# elezetamusicarchive for albums of the Elezeta music project (www.elezeta.com)
-
-You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RPEdOJGGdk3kOnmVq3dgX) instead.
+# Archive for the Elezeta music project (www.elezeta.com) and the Windlereye music project (www.windlereye.com).
 
 ## Indie Pop/Rock
 
@@ -107,3 +105,7 @@ You may want to listen to these at [Spotify](https://open.spotify.com/artist/3RP
 ### Low Orbit Carnivorous Plant (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Low.Orbit.Carnivorous.Plant.flac.zip)
+
+### Mint Condition (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Mint.Condition.flac.zip)

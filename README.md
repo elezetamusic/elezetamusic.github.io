@@ -109,3 +109,7 @@
 ### Mint Condition (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Mint.Condition.flac.zip)
+
+### Typowriter (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Typowriter.flac.zip)

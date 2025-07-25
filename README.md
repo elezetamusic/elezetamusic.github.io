@@ -113,3 +113,8 @@
 ### Typowriter (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Typowriter.flac.zip)
+
+
+### Derivative (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Derivative.flac.zip)

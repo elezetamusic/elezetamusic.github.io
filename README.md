@@ -118,6 +118,10 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Earworm.Birdsong.flac.zip)
 
+### Way Too Much (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Way.Too.Much.flac.zip)
+
 
 ### Derivative (2025)
 

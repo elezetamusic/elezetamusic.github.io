@@ -5,7 +5,7 @@
 
 ### There Is Only So Much Time (2025) - Work in Progress (RELEASE CANDIDATE 1)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/RC1-Windlereye.-.There.Is.Only.So.Much.Time.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/RC1-Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
 
 ### Soda Fizz Pop Rock Huh? (2025)
 

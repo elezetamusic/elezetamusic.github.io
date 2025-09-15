@@ -122,6 +122,9 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Way.Too.Much.flac.zip)
 
+### Platypus on the Second Floor (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Platypus.on.the.Second.Floor.flac.zip)
 
 ### Derivative (2025)
 

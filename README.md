@@ -3,29 +3,29 @@
 
 ## Side project Windlereye - Alternative Rock leveraging generative AI
 
-### There Is Only So Much Time (2025) - Work in Progress (RELEASE CANDIDATE 1)
+### There Is Only So Much Time (2025) - The Best Of 2025 - Work in Progress (RELEASE CANDIDATE 1)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/RC1-Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
 
-### Soda Fizz Pop Rock Huh? (2025)
+### When Stars Forget (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
-
-### Blindfolded Reverie (2025)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)
-
-### Masquerade in Soft Focus (2025)
-
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
 
 ### Falling Overture (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Falling.Overture.flac.zip)
 
-### When Stars Forget (2025)
+### Masquerade in Soft Focus (2025)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
+
+### Blindfolded Reverie (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)
+
+### Soda Fizz Pop Rock Huh? (2025)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
 
 ### Theories of Almost (2025)
 
@@ -62,7 +62,6 @@
 ### Variations (2025)
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Variations.flac.zip)
-
 
 ## Elezeta
 

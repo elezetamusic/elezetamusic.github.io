@@ -3,9 +3,9 @@
 
 ## Side project Windlereye - Alternative Rock leveraging generative AI
 
-### There Is Only So Much Time (2025) - The Best Of 2025 - Work in Progress (RELEASE CANDIDATE 1)
+### There Is Only So Much Time (2025) - The Best Of 2025 - Work in Progress (RELEASE CANDIDATE 2)
 
- -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/RC1-Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/RC2-Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
 
 ### When Stars Forget (2025)
 

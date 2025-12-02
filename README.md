@@ -63,6 +63,10 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Variations.flac.zip)
 
+### Asymptote (2026)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Asymptote.flac.zip)
+
 ## Elezeta
 
 ### Indie Pop/Rock

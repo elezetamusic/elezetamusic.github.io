@@ -67,6 +67,10 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Asymptote.flac.zip)
 
+### Atlas (2026)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Atlas.flac.zip)
+
 ## Elezeta
 
 ### Indie Pop/Rock

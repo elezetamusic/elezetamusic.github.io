@@ -71,6 +71,11 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Atlas.flac.zip)
 
+### Dearest Yesterdeye (2026)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Dearest.Yesterdeye.flac.zip)
+
+
 ## Elezeta
 
 ### Indie Pop/Rock

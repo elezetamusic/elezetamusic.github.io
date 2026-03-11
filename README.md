@@ -75,6 +75,10 @@
 
  -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Dearest.Yesterdeye.flac.zip)
 
+### In Other Words (2026)
+
+ -  FLAC: [download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.In.Other.Words.flac.zip)
+
 
 ## Elezeta
 

@@ -6,6 +6,7 @@
 * There Is Only So Much Time (2025) - The Best Of 2025: [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
 
 ### Other Albums
+* Odd Inspirations (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Odd.Inspirations.flac.zip)
 * Whole Food (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Whole.Food.flac.zip)
 * In Other Words (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.In.Other.Words.flac.zip)
 * Dearest Yesterdeye (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Dearest.Yesterdeye.flac.zip)

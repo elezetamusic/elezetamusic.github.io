@@ -1,33 +1,6 @@
-# Archive for the Elezeta music project (www.elezeta.com) and the Windlereye music project (www.windlereye.com).
+# Archive for the Elezeta music project (www.elezeta.com)
 
-## Side project Windlereye - Alternative Rock leveraging generative AI
-
-### The Best Of
-* There Is Only So Much Time (2025) - The Best Of 2025: [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.There.Is.Only.So.Much.Time.flac.zip)
-
-### Other Albums
-* Odd Inspirations (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Odd.Inspirations.flac.zip)
-* Whole Food (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Whole.Food.flac.zip)
-* In Other Words (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.In.Other.Words.flac.zip)
-* Dearest Yesterdeye (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Dearest.Yesterdeye.flac.zip)
-* Atlas (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Atlas.flac.zip)
-* Asymptote (2026): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Asymptote.flac.zip)
-* Variations (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Variations.flac.zip)
-* Derivative (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Derivative.flac.zip)
-* Platypus on the Second Floor (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Platypus.on.the.Second.Floor.flac.zip)
-* Way Too Much (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Way.Too.Much.flac.zip)
-* Earworm, Birdsong (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Earworm.Birdsong.flac.zip)
-* Typowriter (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Typowriter.flac.zip)
-* Mint Condition (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Mint.Condition.flac.zip)
-* Low Orbit Carnivorous Plant (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Low.Orbit.Carnivorous.Plant.flac.zip)
-* Theories of Almost (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Theories.of.Almost.flac.zip)
-* Soda Fizz Pop Rock Huh? (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Soda.Fizz.Pop.Rock.Huh.flac.zip)
-* Blindfolded Reverie (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Blindfolded.Reverie.flac.zip)
-* Masquerade in Soft Focus (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Masquerade.in.Soft.Focus.flac.zip)
-* Falling Overture (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.Falling.Overture.flac.zip)
-* When Stars Forget (2025): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Windlereye.-.When.Stars.Forget.flac.zip)
-
-## Elezeta
+See www.windlereye.com and https://github.com/windlereye/windlereye for my new music project!
 
 ### Indie Pop/Rock
 * Crossing Lines (2024): [FLAC download](https://github.com/elezetamusic/elezetamusic.github.io/releases/download/albums/Elezeta.-.Crossing.Lines.flac.zip)
